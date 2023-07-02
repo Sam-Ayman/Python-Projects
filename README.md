@@ -16,7 +16,6 @@ In this repository, you will find a variety of Python projects that I have built
 ## Projects
 
 1. [Project 1](./Project1): A basic python quiz.
-   ...
 
 Feel free to explore each project directory to learn more about the specific projects and their functionalities.
 
