@@ -44,9 +44,7 @@ To use any of the projects in this repository, follow the instructions provided 
 
 Thank you for your interest in contributing to my Python portfolio projects! At this time, I am not accepting direct contributions to this repository. However, if you have any suggestions or feedback, please feel free to open an issue or reach out to me.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository for personal and educational purposes.
 
 
 
