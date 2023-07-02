@@ -6,10 +6,8 @@ Welcome to the Python Quiz Project! This project is a simple quiz application wr
 
 - [Description](#description)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -24,11 +22,9 @@ The quiz is structured with a question bank containing multiple-choice questions
 - Instant feedback on correct or incorrect answers
 - Calculation of final score at the end of the quiz
 
-## Installation
+## Usage
 
-1. Ensure you have Python 3 installed on your machine. You can download Python from the official Python website: https://www.python.org/downloads/
-
-2. Clone or download this repository to your local machine.
-
-   ```shell
-   git clone https://github.com/your-username/python-quiz-project.git
+1. In the project directory, run the following command to start the quiz:python quiz.py
+2. Follow the on-screen instructions to answer each question by selecting the corresponding option.
+3. After answering all the questions, your score will be displayed.
+4. You can modify the question bank by editing the questions.py file. Feel free to add, remove, or modify questions to suit your needs.
