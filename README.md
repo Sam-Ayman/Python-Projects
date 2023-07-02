@@ -6,10 +6,8 @@ Welcome to my Python Portfolio Projects repository! This repository contains a c
 
 - [Description](#description)
 - [Projects](#projects)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -23,12 +21,6 @@ In this repository, you will find a variety of Python projects that I have built
    ...
 
 Feel free to explore each project directory to learn more about the specific projects and their functionalities.
-
-## Installation
-
-To run any of the projects in this repository, you will need to have Python installed on your machine. If you don't have Python installed, you can download it from the official Python website: https://www.python.org/
-
-Additionally, some projects may have specific dependencies or require additional libraries. In such cases, I have provided detailed installation instructions within each project's directory.
 
 ## Usage
 
