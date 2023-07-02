@@ -15,7 +15,7 @@ In this repository, you will find a variety of Python projects that I have built
 
 ## Projects
 
-1. [Project 1](./project1): Description of project 1.
+1. [Project 1](./Project1): Description of project 1.
 2. [Project 2](./project2): Description of project 2.
 3. [Project 3](./project3): Description of project 3.
    ...
